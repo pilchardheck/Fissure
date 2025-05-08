@@ -1,0 +1,3 @@
+displayName = Fissure Mod
+author = Pil
+version = 0.1
